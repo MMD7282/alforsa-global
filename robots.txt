@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://mmd7282.github.io/alforsa-global/sitemap.xml

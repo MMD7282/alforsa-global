@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://mmd7282.github.io/alforsa-global/sitemap.txt
 Sitemap: https://mmd7282.github.io/alforsa-global/sitemap.xml
 
